@@ -1,7 +1,4 @@
-<?php
-include '../includes/header.inc.php';
-include '../includes/navbar.inc.php';
-?>
+
 
   
     <form class="col8-md-8 col-lg-6 mx-auto">
@@ -22,6 +19,3 @@ include '../includes/navbar.inc.php';
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 
-<?php
-include '../includes/footer.inc.php';
-?>
