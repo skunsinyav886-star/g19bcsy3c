@@ -2,7 +2,7 @@
 
   
     <form class="col8-md-8 col-lg-6 mx-auto">
-        <h6>Login</h6>
+        <h3>Login</h3>
         <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Email address</label>
             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
